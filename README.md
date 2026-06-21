@@ -47,3 +47,21 @@ I interpreted the user's needs by reviewing the client's requirements and focusi
 ## How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
 
 I approached software design by gathering requirements, analyzing possible solutions, evaluating operating platforms, and selecting the best architecture for the project. In the future, I would continue using requirements analysis, UML modeling, design documentation, and stakeholder feedback to guide the development process.
+
+
+
+
+
+# CS 250 – Agile and Scrum Reflection
+
+## How do I interpret user needs and implement them into a program? How does creating user stories help with this?
+
+I interpret user needs by gathering requirements and understanding what the user wants the software to accomplish. User stories help break requirements into manageable tasks from the user's perspective, making it easier to prioritize features and ensure the final product provides value.
+
+## How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+
+I approach program development by first understanding requirements, planning tasks, and then implementing solutions incrementally. Agile processes such as sprint planning, daily communication, backlog prioritization, and retrospectives help improve organization and adaptability. In the future, I plan to continue using iterative development and regular feedback to improve project outcomes.
+
+## What does it mean to be a good team member in software development?
+
+Being a good team member means communicating effectively, collaborating with others, meeting commitments, and supporting the success of the team. Good team members remain open to feedback, contribute ideas, and work together to solve problems while maintaining a positive and professional attitude.
