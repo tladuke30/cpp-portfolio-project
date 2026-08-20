@@ -88,3 +88,26 @@ I interpreted the user's needs by reviewing the DriverPass requirements and iden
 ## My Approach to Software Design
 
 My approach to designing software is to first understand the problem and identify the requirements before deciding how the system should be built. I would then break the system into smaller components and use tools such as UML use case, activity, sequence, and class diagrams to visualize how the system should function. In future projects, I would continue gathering and analyzing requirements, creating models, reviewing the design for possible problems, and using feedback to improve the system before development begins.
+
+
+# CS 300 - Data Structures and Algorithms
+
+## What Problem Was I Solving?
+
+The main problem I was solving in these projects was creating a program that could efficiently store, organize, and display course information for the Computer Science program. The program needed to load course data, display a list of courses in alphanumeric order, and allow a user to search for a specific course and view its prerequisites.
+
+## How I Approached the Problem
+
+I approached the problem by considering different data structures and how each one would affect the performance of the program. Understanding data structures is important because the structure used to store information can affect how efficiently a program searches, sorts, and accesses data. During Project One, I compared the run-time and memory requirements of different data structures before deciding how the program should be implemented.
+
+## Overcoming Roadblocks
+
+One of the challenges I encountered was getting the program to correctly load and process the course data. I also encountered errors while developing and testing the C++ code. I worked through these problems by reviewing the code, testing individual parts of the program, correcting errors, and running the program again to make sure each menu option worked correctly.
+
+## Designing and Developing Programs
+
+This project expanded my approach to software development by showing me the importance of planning how data will be stored before writing the final program. Instead of focusing only on whether a program works, I now understand that it is also important to consider efficiency and how the program will perform as the amount of data increases. Comparing different data structures helped me see how design decisions can affect the overall performance of a program.
+
+## Maintainable, Readable, and Adaptable Programs
+
+My work on this project also helped me improve how I organize and write code. I used functions, meaningful names, comments, and a clear program structure to make the code easier to understand. Writing readable and organized code makes it easier to debug, maintain, and modify the program in the future.
