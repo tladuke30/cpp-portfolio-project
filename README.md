@@ -65,3 +65,26 @@ I approach program development by first understanding requirements, planning tas
 ## What does it mean to be a good team member in software development?
 
 Being a good team member means communicating effectively, collaborating with others, meeting commitments, and supporting the success of the team. Good team members remain open to feedback, contribute ideas, and work together to solve problems while maintaining a positive and professional attitude.
+
+
+# CS 255 - DriverPass System Analysis and Design
+
+## Project Summary
+
+The client for this project was DriverPass, a company that wanted to provide students with better preparation for their driving tests. DriverPass wanted a web-based system where customers could create accounts, purchase training packages, schedule driving lessons, take practice tests, and track their progress. The system also needed to allow employees to manage customers, appointments, drivers, vehicles, and other information.
+
+## What I Did Well
+
+One part of this project that I did particularly well was translating the client's requirements into a system design. I created UML diagrams to show different parts of the DriverPass system and how users would interact with it. I also considered both customer and employee needs when designing the system. This helped me understand how requirements gathered from a client can be turned into a technical design that developers can use.
+
+## What I Would Improve
+
+If I could revise one part of my work, I would improve some of my UML diagrams. I would focus on making them easier to read and making sure that each relationship, action, and interaction is as clear as possible. I would also review the diagrams together to make sure they are consistent with one another and accurately represent the requirements of the DriverPass system.
+
+## Interpreting User Needs
+
+I interpreted the user's needs by reviewing the DriverPass requirements and identifying the functions that customers and employees needed from the system. For example, customers needed the ability to create accounts, select training packages, schedule driving lessons, take practice tests, and view their progress. I incorporated these needs into the system design and UML diagrams. Considering user needs is important because a system can be technically functional but still fail if it does not solve the problems or provide the features that users actually need.
+
+## My Approach to Software Design
+
+My approach to designing software is to first understand the problem and identify the requirements before deciding how the system should be built. I would then break the system into smaller components and use tools such as UML use case, activity, sequence, and class diagrams to visualize how the system should function. In future projects, I would continue gathering and analyzing requirements, creating models, reviewing the design for possible problems, and using feedback to improve the system before development begins.
